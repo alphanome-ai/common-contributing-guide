@@ -1,6 +1,6 @@
 # Common Contributing Guidelines
 
-Welcome to the centralized contributing guidelines repository for select Alphanome-AI projects. This resource is designed to provide developers with all the information they need to contribute effectively to our projects.
+Welcome to the centralized contributing guidelines repository for select Alphanome-AI projects. This resource is designed to provide developers with all the information they need to contribute effectively to our projects, such as environment setup, coding standards, and contribution workflows.
 
 These guidelines are specifically pointed to by the following project `CONTRIBUTING.md` files:
 - [sec-parser/CONTRIBUTING.md](https://github.com/alphanome-ai/sec-parser/blob/main/CONTRIBUTING.md)
