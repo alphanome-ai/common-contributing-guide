@@ -1,4 +1,4 @@
-# Common Contributing Guidelines
+# Common Contributing Guide
 
 Welcome to the centralized contributing guidelines repository for select Alphanome-AI projects. This resource is designed to provide developers with all the information they need to contribute effectively to our projects, such as environment setup, coding standards, and contribution workflows. 
 
