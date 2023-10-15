@@ -179,7 +179,7 @@ Unit tests are essential for verifying the functionality of code under various i
 Consider using [Cursor](https://cursor.sh/) AI to facilitate your unit test writing process. However, remember that the purpose of unit tests is not just to "cover" your code. Unit tests establish a specification of the expected behavior of correctly written code under a variety of circumstances, isolated from other pieces of code.
 
 > **Note**
-We recommend [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters) for VSCode/Cursor users. This extension integrates with the project automatically and displays line coverage. It provides a visual representation of the code that has been executed at least once during unit test checks. Here is an example of how Coverage Gutters displays line coverage:<br><br><img height="130" alt="image" src="./assets/274829200-70aa5d5e-50ba-46fc-a9aa-ca0d176fc1f9.png">&nbsp;<img height="130" alt="image" src="./assets/274829189-531511ff-3ac9-42fc-a483-79adea039eda.png"><br>&nbsp;
+We recommend [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters) for VSCode/Cursor users. This extension integrates with the project automatically and displays line coverage. It provides a visual representation of the code that has been executed at least once during unit test checks. Here is an example of how Coverage Gutters displays line coverage:<br><br><img height="130" alt="image" src="assets/274829200-70aa5d5e-50ba-46fc-a9aa-ca0d176fc1f9.png">&nbsp;<img height="130" alt="image" src="assets/274829189-531511ff-3ac9-42fc-a483-79adea039eda.png"><br>&nbsp;
 
 ### Conventional Commits (Optional)
 
