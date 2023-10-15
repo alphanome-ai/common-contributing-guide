@@ -188,7 +188,7 @@ We encourage the use of conventional commits for your contributions. Conventiona
 > **Note**
 [Cursor](https://cursor.sh/) AI can assist in structuring your commit messages. However, remember that the purpose of commits is to state **why** you're making a change, not what the change is. For example, a commit message like "Refactor serialization logic to improve performance" is much more informative than just "Update serialization".
 
-## Contact and Support
+## Questions and Help Requests
 Should you have any questions, concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
 
 ## Conclusion
