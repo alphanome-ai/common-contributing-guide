@@ -151,7 +151,7 @@ This tool is already installed as a package dependency during the `poetry instal
 pre-commit install
 ```
 
-Once activated, pre-commit will run the code checks automatically with each commit. Any issues detected must be addressed before you can commit your changes.  some issues will be auto-fixed otherweise let you know if somthing is not right
+Once you turn on pre-commit, it will check your code automatically every time you try to make a commit. If it finds any problems, you'll need to fix them before you can go ahead and commit your changes. Some issues will be fixed for you, while for others, you'll get a warning to let you know something needs attention.
 
 ## Coding Standards
 
