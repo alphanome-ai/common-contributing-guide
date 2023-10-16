@@ -13,34 +13,34 @@ This guide is specifically referenced in the `CONTRIBUTING.md` files for the pro
 - [Contribution Workflow](#contribution-workflow)
 
 ## Development Environment: Quick Start
-We understand that you're eager to start contributing to our projects. So, we've prepared a brief guide to get you up and running as quickly as possible. Let's dive right in!
+Welcome! If you're eager to start contributing, you're in the right place. This quick guide will get you set up and ready to contribute as quickly as possible.
 
 > **Note**
-This Quick Start Guide is designed for experienced users who are familiar with common development tools and environments. If you're new or looking for a detailed walkthrough, please skip to the sections below this guide for comprehensive instructions.
+This Quick Start Guide is intended for those who are already experienced with development tools and environments. If you're new or need detailed instructions, please read the [Setting Up Your Development Environment](#setting-up-your-development-environment) section.
 
-1. **Setting up Poetry**: We prefer Poetry over pip for managing dependencies. It's easy to install on your system. Just follow the instructions provided [here](https://python-poetry.org/). Or, you can use the command below:
+1. **Setting up Poetry**: We prefer using Poetry instead of pip for managing dependencies. To install Poetry, you can follow the instructions available [here](https://python-poetry.org/), or simply run the command below:
 
 ```bash
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
-2. **Installing Project Dependencies**: Once you've got Poetry installed, it's time to get the project dependencies. Navigate to the project directory and use the following command:
+2. **Installing Project Dependencies**: After installing Poetry, you can get the project dependencies. Navigate to the project directory and run:
 
 ```bash
 poetry install
 ```
 
-3. **Getting Task Ready**: Task is our go-to tool for task management. It's a simple and efficient alternative to Make, written in Go. You can install it by following the instructions [here](https://taskfile.dev/#/installation).
+3. **Getting Task Ready**: We use Task as our primary tool for task management. It's an efficient alternative to Make and is written in Go. Installation instructions can be found [here](https://taskfile.dev/#/installation).
 
-4. **Exploring Common Operations**: We've made several common operations available as tasks for your convenience. You can view the most commonly used ones with the command below:
+4. **Exploring Common Operations**: We've set up tasks for common operations. To see a list of the most commonly used ones, run:
 
 ```bash
 task --list
 ```
 
-**Congratulations!** You're now ready to start contributing. We're excited to have you join us and look forward to the valuable contributions you'll make.
+**Congratulations!** You're now prepared to contribute. We're thrilled to have you and can't wait to see your contributions.
 
-For a more comprehensive understanding of our contribution workflow and development environment setup, continue reading.
+For a more in-depth understanding of our contribution workflow, coding standards, and development environment, please continue reading the sections that follow.
 
 ## Setting Up Your Development Environment
 
