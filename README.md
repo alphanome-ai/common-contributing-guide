@@ -9,9 +9,10 @@ This guide is specifically referenced in the `CONTRIBUTING.md` files for the pro
 - [Contribution Workflow](#contribution-workflow)
 - [Setting Up Your Development Environment](#setting-up-your-development-environment)
 - [Adhering to Coding Standards](#adhering-to-coding-standards)
+- [Working with Complex Data: Unit Testing Approach](#working-with-complex-data-unit-testing-approach)
 - [Seeking Assistance and Asking Questions](#seeking-assistance-and-asking-questions)
 
-## Welcome to the Quick Start Guide!
+## Quick Start Guide
 
 We understand that you're eager to start contributing to our projects. So, we've prepared a brief guide to get you up and running as quickly as possible. Let's dive right in!
 
@@ -63,7 +64,7 @@ We're thrilled that you're considering contributing to our project! To facilitat
 
 2. **Check CI/CD Output:** Our CI/CD pipeline will automatically run `task ci-checks` every time you push to your PR, notifying you of any issues. You can also run `task ci-checks` locally before pushing to catch any potential problems early.
 
-## Development Environment Setup
+## Setting Up Your Development Environment
 
 ### Supported Operating Systems
 
@@ -165,7 +166,7 @@ pre-commit install
 
 Once you turn on pre-commit, it will check your code automatically every time you try to make a commit. If it finds any problems, you'll need to fix them before you can go ahead and commit your changes. Some issues will be fixed for you, while for others, you'll get a warning to let you know something needs attention.
 
-## Coding Standards
+## Adhering to Coding Standards
 
 The pre-commit tool you've installed is designed to perform a series of checks with each commit you make. These checks are mirrored in our CI/CD pipeline and must pass before any PR can be merged. This process ensures the quality and consistency of our code across the entire project. Remember, you have the flexibility to run these checks individually or all at once using `Task`.
 
@@ -200,9 +201,6 @@ We encourage the use of conventional commits for your contributions. Conventiona
 > **Note**
 [Cursor](https://cursor.sh/) AI can assist in structuring your commit messages. However, remember that the purpose of commits is to state **why** you're making a change, not what the change is. For example, a commit message like "Refactor serialization logic to improve performance" is much more informative than just "Update serialization".
 
-## Questions and Help Requests
-Should you have any questions, concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
-
 ## Working with Complex Data: Unit Testing Approach
 
 When dealing with complex data, a common and effective strategy is to encapsulate the complexity within a unit test. This approach involves defining the various scenarios you anticipate and then focusing on testing these scenarios rather than the entire document or using extensive debugging tools.
@@ -216,6 +214,9 @@ This method significantly reduces the time required to verify if your modificati
 3. **Work with the unit test:** Once you have your unit test set up, you can make changes and run the test to see if your changes are working as expected. This is much quicker and more efficient than working with the full document or using full debugging tools.
 
 Remember, the goal here is to make your testing process more efficient and manageable. By isolating complexity and focusing on unit tests, you can achieve this goal and ensure your changes work as intended.
+
+## Seeking Assistance and Asking Questions
+Should you have any questions, concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
 
 ## Conclusion
 Thank you for your interest in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
