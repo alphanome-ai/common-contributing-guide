@@ -13,11 +13,10 @@ This guide is specifically referenced in the `CONTRIBUTING.md` files for the pro
 - [Contribution Workflow](#contribution-workflow)
 
 ## Development Environment: Quick Start
+We understand that you're eager to start contributing to our projects. So, we've prepared a brief guide to get you up and running as quickly as possible. Let's dive right in!
 
 > **Note**
 This Quick Start Guide is designed for experienced users who are familiar with common development tools and environments. If you're new or looking for a detailed walkthrough, please skip to the sections below this guide for comprehensive instructions.
-
-We understand that you're eager to start contributing to our projects. So, we've prepared a brief guide to get you up and running as quickly as possible. Let's dive right in!
 
 1. **Setting up Poetry**: We prefer Poetry over pip for managing dependencies. It's easy to install on your system. Just follow the instructions provided [here](https://python-poetry.org/). Or, you can use the command below:
 
