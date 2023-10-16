@@ -144,13 +144,15 @@ task: Available tasks for this project:
 
 To view all the tasks and their descriptions that you can execute with Task, you can open the `Taskfile.yml file located at the root of the project.
 
-### Recommended IDE
+### Choosing an IDE
 
-In order to maximize your productivity and efficiency when contributing to our codebase, we highly recommend using Cursor as your Integrated Development Environment (IDE). Cursor is a powerful, AI-enhanced fork of VSCode that is designed to streamline the coding process. It's not just about writing code, but writing it well and quickly.
+While we understand and respect that developers have their own preferred tools and setups, you might find Cursor to be a highly effective option for contributing to this project. Cursor is a powerful, AI-augmented version of VSCode, equipped to make the coding process smoother and more efficient.
 
-Our codebase is rich with docstrings, type hints, and has a high unit test coverage. These features are leveraged by Cursor's AI capabilities (with ChatGPT), to provide intelligent code completions, error detection, and other helpful suggestions. This means you can write code faster, with fewer errors, and spend less time debugging.
+Our codebase is enriched with docstrings, type hints, and a high level of unit test coverage. If you choose to use Cursor, its AI capabilities can leverage these features for smarter code completions, effective error detection, and various other useful suggestions. This can help you write clean, error-free code more rapidly, reducing debugging time.
 
-Cursor is free to use and retains all the features you love about VSCode, but with the added benefit of AI integration. This makes it an ideal choice for working on our projects. You can read more about Cursor and download it from [here](https://cursor.sh/).
+However, please note that the use of Cursor is completely optional. Our primary concern is the quality of your contributions, not the tools you use to produce them.
+
+For those interested in trying out Cursor, it is free and includes all the functionalities you appreciate in VSCode, along with AI-enhanced features. You can learn more and download it from [here](https://cursor.sh/).
 
 > **Note**
 For optimal performance, we recommend using OpenAI's GPT-4 model.
