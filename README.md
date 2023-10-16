@@ -46,9 +46,13 @@ We're thrilled that you're considering contributing to our project! To facilitat
 
 ### Identifying a Contribution
 
-1. **Existing Issues:** Begin by navigating to the GitHub issues page of the project you're interested in, such as [sec-parser GitHub issues](https://github.com/alphanome-ai/sec-parser/issues). We suggest starting with issues labeled `contributions-welcome`, which typically align with our [roadmap](https://github.com/orgs/alphanome-ai/discussions/categories/roadmap-future-plans). If you're new to contributing, consider issues tagged `good-first-issue`.
+1. **Explore Existing Issues**: Start your journey by visiting the [sec-parser GitHub issues](https://github.com/alphanome-ai/sec-parser/issues). Issues marked as `contributions-welcome` are a great place to begin as they are generally aligned with our current [roadmap](https://github.com/orgs/alphanome-ai/discussions/categories/roadmap-future-plans). If you're new to the project, look for issues labeled `good-first-issue`.
 
-2. **New Contributions:** We welcome all types of contributions, not just those listed in the issues or roadmap. If you've identified a bug that's not yet on our radar, or if you have a new idea for an improvement, we encourage you to share it. For such cases, it's best to initiate a discussion in the [Discussions](https://github.com/alphanome-ai/sec-parser/discussions) section before proceeding with your contribution. This ensures your efforts align with the project's direction and are beneficial to the community.
+2. **Consult the Short-Term Roadmap**: For an overview of our focus areas and upcoming projects, visit our [Alphanome.AI Short-term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This provides another avenue for you to find meaningful contributions that align with our broader objectives.
+
+3. **Propose New Contributions**: If you've discovered a bug that isn't listed or have a new idea for an enhancement, we welcome your initiative! For these types of contributions, we recommend starting a thread in the [Discussions](https://github.com/alphanome-ai/sec-parser/discussions) section. This helps you gauge community interest and ensures that your efforts will be in line with the project's goals.
+
+By exploring these three avenues, you'll have a comprehensive view of how you can contribute meaningfully to the project.
 
 ### Preparing for Contribution
 
