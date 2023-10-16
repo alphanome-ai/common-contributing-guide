@@ -1,4 +1,4 @@
-# Alphanome-AI Common Contribution Guide
+# Alphanome.AI Common Contribution Guide
 
 Welcome to the unified contribution guide for select Alphanome-AI projects. This document serves as a comprehensive resource for developers, detailing everything you need to contribute effectively. It covers environment setup, coding standards, and contribution workflows.
 
