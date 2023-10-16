@@ -1,15 +1,15 @@
-# Common Contributing Guide
+# Alphanome-AI Common Contribution Guide
 
-Welcome to the centralized contributing guidelines repository for select Alphanome-AI projects. This resource is designed to provide developers with all the information they need to contribute effectively to our projects, such as environment setup, coding standards, and contribution workflows. 
+Welcome to the unified contribution guide for select Alphanome-AI projects. This document serves as a comprehensive resource for developers, detailing everything you need to contribute effectively. It covers environment setup, coding standards, and contribution workflows.
 
-These guidelines are specifically pointed to by the `CONTRIBUTING.md` files of the projects [sec-parser](https://github.com/alphanome-ai/sec-parser/blob/main/CONTRIBUTING.md) and [sec-ai](https://github.com/alphanome-ai/sec-ai/blob/main/CONTRIBUTING.md).
+This guide is specifically referenced in the `CONTRIBUTING.md` files for the projects [sec-parser](https://github.com/alphanome-ai/sec-parser/blob/main/CONTRIBUTING.md) and [sec-ai](https://github.com/alphanome-ai/sec-ai/blob/main/CONTRIBUTING.md).
 
 ## Table of Contents
-- [Welcome to the Quick Start Guide!](#welcome-to-the-quick-start-guide)
+- [Quick Start Guide](#quick-start-guide)
 - [Contribution Workflow](#contribution-workflow)
-- [Development Environment Setup](#development-environment-setup)
-- [Coding Standards](#coding-standards)
-- [Questions and Help Requests](#questions-and-help-requests)
+- [Setting Up Your Development Environment](#setting-up-your-development-environment)
+- [Adhering to Coding Standards](#adhering-to-coding-standards)
+- [Seeking Assistance and Asking Questions](#seeking-assistance-and-asking-questions)
 
 ## Welcome to the Quick Start Guide!
 
