@@ -46,7 +46,7 @@ We're thrilled that you're considering contributing to our project! To facilitat
 
 ### Identifying a Contribution
 
-1. **Explore Existing Issues**: If you're interested in contributing to our projects, a convenient starting point is to look through the existing issues (For example, [sec-parser Issues](https://github.com/alphanome-ai/sec-parser/issues)). These are often labeled as `contributions-welcome` and align with our project [roadmap](https://github.com/orgs/alphanome-ai/discussions/categories/roadmap-future-plans). For beginners, issues tagged as `good-first-issue` are an excellent entry point.
+1. **Explore Existing Issues**: If you're interested in contributing to our projects, a convenient starting point is to browse the existing GitHub issues. For example, you can check out the [sec-parser Issues](https://github.com/alphanome-ai/sec-parser/issues). Look for issues labeled `contributions-welcome`, as these usually align with our overarching [roadmap](https://github.com/orgs/alphanome-ai/discussions/categories/roadmap-future-plans). For those new to the project, consider starting with issues tagged `good-first-issue`.
 
 2. **Consult the Short-Term Roadmap**: To gain a broader perspective on our upcoming projects and focus areas, you can visit our [short-term roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This will help you find contributions that are in sync with our overall objectives.
 
