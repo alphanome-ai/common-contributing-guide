@@ -46,7 +46,7 @@ tasks:
 
 Running `task one` will print "Hello World !!!", and running `task two` will print "World".
 
-5. **Exploring Common Operations**: We've set up tasks for common operations. To see a list of the most commonly used ones, run:
+4. **Exploring Common Operations**: We've set up tasks for common operations. To see a list of the most commonly used ones, run:
 
 ```bash
 task --list
