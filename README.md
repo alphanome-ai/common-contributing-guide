@@ -30,9 +30,23 @@ curl -sSL https://install.python-poetry.org | python3 -
 poetry install
 ```
 
-3. **Getting Task Ready**: We use Task as our primary tool for task management. It's an efficient alternative to Make and is written in Go. Installation instructions can be found [here](https://taskfile.dev/#/installation).
+3. **Getting Task Ready**: Task is an extremely straightforward tool and we use it solely on running predefined commands. Installation instructions can be found [here](https://taskfile.dev/#/installation). Let's give a quick example. Say, we have `Taskfile.yml`:
 
-4. **Exploring Common Operations**: We've set up tasks for common operations. To see a list of the most commonly used ones, run:
+```
+tasks:
+  one:
+    cmds:
+      - echo Hello
+      - task: two
+      - echo !!!
+  two:
+    cmds:
+      - echo World
+```
+
+Running `task one` will print "Hello World !!!", and running `task two` will print "World".
+
+5. **Exploring Common Operations**: We've set up tasks for common operations. To see a list of the most commonly used ones, run:
 
 ```bash
 task --list
