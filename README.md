@@ -211,36 +211,46 @@ Remember, the goal here is to make your testing process more efficient and manag
 
 ## Contribution Workflow
 
-We're excited that you're thinking about helping us! We've made a guide to help you know what to do. You can also do things your own way if you want.
+We're thrilled you're considering contributing to our projects! We've crafted this guide to make your journey smooth and enjoyable. Of course, you're free to follow your own workflow if you prefer.
 
 ### Step 1: Pick What to Work On
 
 1. **Look at Open Issues**:
-  - **Option 1**: Go to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This shows tasks that need help.
-  - **Option 2**: Visit the GitHub Issues page of the specific project that interests you. For instance, you can check out the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) and [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
+  - **Option 1**: Navigate to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This board contains tasks that are ready for contributions.
+  - **Option 2**: Browse the GitHub Issues page of the specific project that interests you. For example, visit the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) or [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
   - **Tips**:
-    - For any task, see if it has a `contributions-welcome` label. These are good to work on.
-    - If you are new, look for tasks with a `good-first-issue` label.
+    - Search for tasks labeled `contributions-welcome`. These tasks align with our goals.
+    - If you're new to the project, look for tasks labeled `good-first-issue`.
 
 2. **Read Our Plans**:
-  - Check our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This shows what we want to do next.
+  - Examine our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21) to understand our upcoming projects and focus areas.
 
 3. **Suggest Your Own Task**:
-  - If you find a problem or have a new idea, you can suggest it. Use the [Discussions](https://github.com/orgs/alphanome-ai/discussions) or [Discord](https://discord.gg/2MC3uJhBxs) to talk about it.
+  - If you discover an issue or have a novel idea, feel free to propose it. Initiate a conversation either in the [Discussions](https://github.com/orgs/alphanome-ai/discussions) forum or on our [Discord](https://discord.gg/2MC3uJhBxs) server.
 
 ### Step 2: Get Ready to Work
 
-1. **Make a Copy**: Make your own copy of our project by 'forking' it.
-  
-2. **Talk About Your Plan**: It's a good idea to talk about what you will do in the issue comments. You can ask questions here.
+1. **Consult the Project's CONTRIBUTING.md**:
+  - Before you start, make sure to read the `CONTRIBUTING.md` file of the project you've chosen. This file will guide you on setting up the development environment, following coding standards, and understanding the codebase and domain context.
 
-3. **Get the Code**: Download the code to your computer. Keep your code updated. Check this [Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) to know how.
+2. **Fork the Project**: 
+  - Create your own copy of the project by 'forking' it on GitHub.
+
+3. **Discuss Your Plan**: 
+  - Although optional, we recommend commenting on the issue you're tackling. Use this space to clarify your approach, ask questions, or seek guidance.
+
+4. **Clone and Update Your Fork**: 
+  - Download your forked project to your local machine and keep it updated. Refer to this [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) for instructions on how to sync your fork.
 
 ### Step 3: Do the Work
 
-1. **Make a Pull Request**: When you are ready, ask us to include your changes by making a 'pull request'. Explain clearly what you have done.
+1. **Create a Pull Request**: 
+  - Once you've made your changes, submit them for review by creating a 'pull request'. Provide a clear and comprehensive explanation of what you've done.
 
-2. **Check for Errors**: After you send your changes, our system will check for mistakes. If it finds any, it will tell you. You can also check for mistakes on your computer before sending.
+2. **Check for Errors**: 
+  - After you've submitted your pull request, our automated system will run checks. If it finds issues, you'll be notified. To preemptively catch any potential issues, you can also run these checks locally on your machine.
+
+Thank you for considering contributing to our project. Your help is invaluable to us!
 
 ## Seeking Assistance and Asking Questions
 Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page or [Discord](https://discord.gg/9zePQH7D) unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
