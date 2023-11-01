@@ -209,9 +209,6 @@ This method significantly reduces the time required to verify if your modificati
 
 Remember, the goal here is to make your testing process more efficient and manageable. By isolating complexity and focusing on unit tests, you can achieve this goal and ensure your changes work as intended.
 
-## Seeking Assistance and Asking Questions
-Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
-
 ## Contribution Workflow
 
 We're excited that you're thinking about helping us! We've made a guide to help you know what to do. You can also do things your own way if you want.
@@ -229,7 +226,7 @@ We're excited that you're thinking about helping us! We've made a guide to help 
   - Check our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This shows what we want to do next.
 
 3. **Suggest Your Own Task**:
-  - If you find a problem or have a new idea, you can suggest it. Use the [`Discussions`](https://github.com/alphanome-ai/sec-parser/discussions) area to talk about it.
+  - If you find a problem or have a new idea, you can suggest it. Use the [`Discussions`](https://github.com/alphanome-ai/sec-parser/discussions) or [`Discord`](https://discord.gg/2MC3uJhBxs) to talk about it.
 
 ### Step 2: Get Ready to Work
 
@@ -244,6 +241,9 @@ We're excited that you're thinking about helping us! We've made a guide to help 
 1. **Make a Pull Request**: When you are ready, ask us to include your changes by making a 'pull request'. Explain clearly what you have done.
 
 2. **Check for Errors**: After you send your changes, our system will check for mistakes. If it finds any, it will tell you. You can also check for mistakes on your computer before sending.
+
+## Seeking Assistance and Asking Questions
+Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page or [Discord](https://discord.gg/9zePQH7D) unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
 
 ## Conclusion
 Thank you for your interest in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
