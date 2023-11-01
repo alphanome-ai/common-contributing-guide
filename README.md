@@ -253,9 +253,9 @@ We're thrilled you're considering contributing to our projects! We've crafted th
 Thank you for considering contributing to our project. Your help is invaluable to us!
 
 ## Seeking Assistance and Asking Questions
-Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page or [Discord](https://discord.gg/9zePQH7D) unless they are specific to a GitHub issue or a GitHub pull request. This centralized area allows for easier tracking of community inquiries and ensures that you get a timely response.
+Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page or [Discord](https://discord.gg/9zePQH7D) unless they are specific to a GitHub issue or a GitHub pull request. These centralized areas allow for easier tracking of community inquiries and ensure that you get a timely response.
 
 ## Conclusion
-Thank you for your interest in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
+Thank you for being interested in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
 
 Happy coding!
