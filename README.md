@@ -214,31 +214,36 @@ Should you have any questions, or concerns, or need further clarification, pleas
 
 ## Contribution Workflow
 
-We're thrilled that you're considering contributing to our project! To facilitate your journey, we've structured a recommended workflow. However, we encourage you to adapt this process to fit your preferred style.
+We're excited that you're thinking about helping us! We've made a guide to help you know what to do. You can also do things your own way if you want.
 
-### Identifying a Contribution
+### Step 1: Pick What to Work On
 
-1. **Explore Existing Issues**: If you're interested in contributing, a convenient starting point is to browse the existing GitHub issues for any of our projects. For example, you can check out the [sec-parser Issues](https://github.com/alphanome-ai/sec-parser/issues). Look for issues labeled `contributions-welcome`, as these usually align with our overarching [roadmap](https://github.com/orgs/alphanome-ai/discussions/categories/roadmap-future-plans). For those new to the project, consider starting with issues tagged `good-first-issue`.
+1. **Look at Open Issues**:
+  - **Option 1**: Go to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This shows tasks that need help.
+  - **Option 2**: Visit the GitHub Issues page of the specific project that interests you. For instance, you can check out the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) and [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
+  - **Tips**:
+    - For any task, see if it has a `contributions-welcome` label. These are good to work on.
+    - If you are new, look for tasks with a `good-first-issue` label.
 
-2. **Consult the Short-Term Roadmap**: To gain a broader perspective on our upcoming projects and focus areas, you can visit our [short-term roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This will help you find contributions that are in sync with our overall objectives.
+2. **Read Our Plans**:
+  - Check our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This shows what we want to do next.
 
-3. **Propose New Contributions**: Should you come across a bug that's not already on our radar, or if you have a fresh idea for an improvement, we are open to new contributions. For such initiatives, it's beneficial to start a discussion in the [Discussions](https://github.com/alphanome-ai/sec-parser/discussions) section. This not only gauges community interest but also ensures that your efforts align with the project's goals.
+3. **Suggest Your Own Task**:
+  - If you find a problem or have a new idea, you can suggest it. Use the [`Discussions`](https://github.com/alphanome-ai/sec-parser/discussions) area to talk about it.
 
-These three pathways offer a rounded view of how you can make meaningful contributions to our projects, including `sec-parser`.
+### Step 2: Get Ready to Work
 
-### Preparing for Contribution
+1. **Make a Copy**: Make your own copy of our project by 'forking' it.
+  
+2. **Talk About Your Plan**: It's a good idea to talk about what you will do in the issue comments. You can ask questions here.
 
-1. **Fork the Project:** Create your own copy of the project where you can make changes by forking it.
+3. **Get the Code**: Download the code to your computer. Keep your code updated. Check this [Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) to know how.
 
-2. **Discuss Your Approach:** Although optional, we highly recommend discussing your approach to the issue in the issue thread. This is a great place to ask questions or seek help, and it also helps avoid duplicate efforts. Remember, we're a community and we're here to support each other!
+### Step 3: Do the Work
 
-3. **Clone and Update Your Fork:** Clone your forked project to your local machine. We strongly recommend that you regularly push your code to a draft PR. This allows others to see your progress and offer assistance if necessary. To ensure that you're working with the most recent changes from the main branch, follow the instructions provided in this [GitHub guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli).
+1. **Make a Pull Request**: When you are ready, ask us to include your changes by making a 'pull request'. Explain clearly what you have done.
 
-### Making the Contribution
-
-1. **Create a Pull Request:** Once you're ready with your changes, create a pull request on the original repository. Make sure to provide a clear and comprehensive description of the changes you've made.
-
-2. **Check CI/CD Output:** Our CI/CD pipeline will automatically run `task ci-checks` every time you push to your PR, notifying you of any issues. You can also run `task ci-checks` locally before pushing to catch any potential problems early.
+2. **Check for Errors**: After you send your changes, our system will check for mistakes. If it finds any, it will tell you. You can also check for mistakes on your computer before sending.
 
 ## Conclusion
 Thank you for your interest in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
