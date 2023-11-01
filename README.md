@@ -226,7 +226,7 @@ We're excited that you're thinking about helping us! We've made a guide to help 
   - Check our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21). This shows what we want to do next.
 
 3. **Suggest Your Own Task**:
-  - If you find a problem or have a new idea, you can suggest it. Use the [`Discussions`](https://github.com/orgs/alphanome-ai/discussions) or [`Discord`](https://discord.gg/2MC3uJhBxs) to talk about it.
+  - If you find a problem or have a new idea, you can suggest it. Use the [Discussions](https://github.com/orgs/alphanome-ai/discussions) or [Discord](https://discord.gg/2MC3uJhBxs) to talk about it.
 
 ### Step 2: Get Ready to Work
 
