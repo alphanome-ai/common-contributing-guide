@@ -216,39 +216,39 @@ We're thrilled you're considering contributing to our projects! We've crafted th
 ### Step 1: Pick What to Work On
 
 1. **Look at Open Issues**:
-  - **Option 1**: Navigate to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This board contains tasks that are ready for contributions.
-  - **Option 2**: Browse the GitHub Issues page of the specific project that interests you. For example, visit the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) or [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
-  - **Tips**:
-    - Search for tasks labeled `contributions-welcome`. These tasks align with our goals.
-    - If you're new to the project, look for tasks labeled `good-first-issue`.
+    - **Option 1**: Navigate to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This board contains tasks that are ready for contributions.
+    - **Option 2**: Browse the GitHub Issues page of the specific project that interests you. For example, visit the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) or [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
+    - **Tips**:
+      - Search for tasks labeled `contributions-welcome`. These tasks align with our goals.
+      - If you're new to the project, look for tasks labeled `good-first-issue`.
 
 2. **Read Our Plans**:
-  - Examine our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21) to understand our upcoming projects and focus areas.
+    - Examine our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21) to understand our upcoming projects and focus areas.
 
 3. **Suggest Your Own Task**:
-  - If you discover an issue or have a novel idea, feel free to propose it. Initiate a conversation either in the [Discussions](https://github.com/orgs/alphanome-ai/discussions) forum or on our [Discord](https://discord.gg/2MC3uJhBxs) server.
+    - If you discover an issue or have a novel idea, feel free to propose it. Initiate a conversation either in the [Discussions](https://github.com/orgs/alphanome-ai/discussions) forum or on our [Discord](https://discord.gg/2MC3uJhBxs) server.
 
 ### Step 2: Get Ready to Work
 
 1. **Consult the Project's CONTRIBUTING.md**:
-  - Before you start, make sure to read the `CONTRIBUTING.md` file of the project you've chosen. This file will guide you on setting up the development environment, following coding standards, and understanding the codebase and domain context.
+    - Before you start, make sure to read the `CONTRIBUTING.md` file of the project you've chosen. This file will guide you on setting up the development environment, following coding standards, and understanding the codebase and domain context.
 
 2. **Fork the Project**: 
-  - Create your own copy of the project by 'forking' it on GitHub.
+    - Create your own copy of the project by 'forking' it on GitHub.
 
 3. **Discuss Your Plan**: 
-  - Although optional, we recommend commenting on the issue you're tackling. Use this space to clarify your approach, ask questions, or seek guidance.
+    - Although optional, we recommend commenting on the issue you're tackling. Use this space to clarify your approach, ask questions, or seek guidance.
 
 4. **Clone and Update Your Fork**: 
-  - Download your forked project to your local machine and keep it updated. Refer to this [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) for instructions on how to sync your fork.
+    - Download your forked project to your local machine and keep it updated. Refer to this [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) for instructions on how to sync your fork.
 
 ### Step 3: Do the Work
 
 1. **Create a Pull Request**: 
-  - Once you've made your changes, submit them for review by creating a 'pull request'. Provide a clear and comprehensive explanation of what you've done.
+    - Once you've made your changes, submit them for review by creating a 'pull request'. Provide a clear and comprehensive explanation of what you've done.
 
 2. **Check for Errors**: 
-  - After you've submitted your pull request, our automated system will run checks. If it finds issues, you'll be notified. To preemptively catch any potential issues, you can also run these checks locally on your machine.
+    - After you've submitted your pull request, our automated system will run checks. If it finds issues, you'll be notified. To preemptively catch any potential issues, you can also run these checks locally on your machine.
 
 Thank you for considering contributing to our project. Your help is invaluable to us!
 
