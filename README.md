@@ -211,49 +211,48 @@ Remember, the goal here is to make your testing process more efficient and manag
 
 ## Contribution Workflow
 
-We're thrilled you're considering contributing to our projects! We've crafted this guide to make your journey smooth and enjoyable. Of course, you're free to follow your own workflow if you prefer.
+We're excited about your interest in contributing to Alphanome AI's projects! To ensure a smooth and efficient process for all contributors, we've established this workflow. Please follow these steps to contribute effectively and avoid overlapping efforts.
 
-### Step 1: Pick What to Work On
+### Step 1: Select a Task
 
-1. **Look at Open Issues**:
-    - **Option 1**: Navigate to our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board. This board contains tasks that are ready for contributions.
-    - **Option 2**: Browse the GitHub Issues page of the specific project that interests you. For example, visit the [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) or [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
+1. **Option A: Explore Open Issues**:
+    - Check out our [Request For Contributions](https://github.com/orgs/alphanome-ai/projects/7) board for tasks that are ready for contributions.
+    - Alternatively, browse through the GitHub Issues page of a specific project, such as [`sec-parser` Issues](https://github.com/alphanome-ai/sec-parser/issues) or [`sec-ai` Issues](https://github.com/alphanome-ai/sec-ai/issues).
     - **Tips**:
-      - Search for tasks labeled `contributions-welcome`. These tasks align with our goals.
+      - Look for tasks labeled `contributions-welcome`. These tasks align with the project goals.
       - If you're new to the project, look for tasks labeled `good-first-issue`.
+      - Be sure to check if a task is already tagged `in-progress` to avoid duplicate efforts.
 
-2. **Read Our Plans**:
-    - Examine our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21) to understand our upcoming projects and focus areas.
-
-3. **Suggest Your Own Task**:
+2. **Option B: Propose a New Task**:
+    - Go through our [Short-Term Roadmap](https://github.com/orgs/alphanome-ai/discussions/21) to understand our focus areas and upcoming projects.
     - If you discover an issue or have a novel idea, feel free to propose it. Initiate a conversation either in the [Discussions](https://github.com/orgs/alphanome-ai/discussions) forum or on our [Discord](https://discord.gg/2MC3uJhBxs) server.
 
-### Step 2: Get Ready to Work
+### Step 2: Prepare for Contribution
 
-1. **Consult the Project's CONTRIBUTING.md**:
-    - Before you start, make sure to read the `CONTRIBUTING.md` file of the project you've chosen. This file will guide you on setting up the development environment, following coding standards, and understanding the codebase and domain context.
+1. **Read CONTRIBUTING.md**:
+    - Before you begin, read the `CONTRIBUTING.md` file of the project for guidelines on setup, coding standards, and codebase understanding.
 
 2. **Fork the Project**: 
-    - Create your own copy of the project by 'forking' it on GitHub.
+    - Fork the project on GitHub to create your own workspace.
 
-3. **Discuss Your Plan**: 
-    - Although optional, we recommend commenting on the issue you're tackling. Use this space to clarify your approach, ask questions, or seek guidance.
+3. **Communicate Your Plan**:
+    - We recommend commenting on the issue you're tackling to discuss your approach and seek guidance. This also allows us to tag the issue as `in-progress`.
 
-4. **Clone and Update Your Fork**: 
-    - Download your forked project to your local machine and keep it updated. Refer to this [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) for instructions on how to sync your fork.
+4. **Continuously Sync Your Fork**:
+    - Follow this [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-with-the-github-cli) to synchronize your fork with the main repository.
 
-### Step 3: Do the Work
+### Step 3: Begin Your Contribution
 
-1. **Create a Pull Request**: 
-    - Once you've made your changes, submit them for review by creating a 'pull request'. Provide a clear and comprehensive explanation of what you've done.
+1. **Submit a Pull Request**: 
+    - Create a pull request with your changes, clearly explaining your contributions.
 
 2. **Check for Errors**: 
-    - After you've submitted your pull request, our automated system will run checks. If it finds issues, you'll be notified. To preemptively catch any potential issues, you can also run these checks locally on your machine.
+    - Run our automated checks and your local tests to catch and fix any issues before final submission.
 
-Thank you for considering contributing to our project. Your help is invaluable to us!
+We're grateful for your contributions and look forward to your valuable input in our project!
 
 ## Seeking Assistance and Asking Questions
-Should you have any questions, or concerns, or need further clarification, please post them to our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page or [Discord](https://discord.gg/9zePQH7D) unless they are specific to a GitHub issue or a GitHub pull request. These centralized areas allow for easier tracking of community inquiries and ensure that you get a timely response.
+If you have any questions, or concerns, or need further clarification, feel free to reach out. Please use our [Discussions](https://github.com/orgs/alphanome-ai/discussions) page for more detailed queries and [Discord](https://discord.gg/9zePQH7D) for quick, conversational questions. For questions specific to a GitHub issue or pull request, kindly post them directly in the respective issue or PR thread.
 
 ## Conclusion
 Thank you for being interested in contributing to our projects! We're thrilled to have you on board. Your contributions help make our projects better, and we sincerely appreciate your time and effort.
